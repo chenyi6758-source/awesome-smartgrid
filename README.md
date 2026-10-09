@@ -25,6 +25,7 @@
 * [TopoGrid](https://github.com/PVKonovalov/topogrid) Package topogrid contains implementations of basic power grid algorithms based on the grid topology.
 * [Power Grid Model GitHub](https://github.com/PowerGridModel), [Power Grid Model](https://lfenergy.org/projects/power-grid-model/) Python/C++ library for distribution power system analysis.
 * [PyPSA](https://github.com/PyPSA/PyPSA) Python for Power System Analysis.
+* [pvhostcap](https://github.com/chenyi6758-source/pvhostcap) Deterministic PV hosting-capacity screening for distribution feeders (pandapower-native): bisection-search system HC, per-bus locational HC map, binding-constraint diagnostics, and mitigation comparison (e.g. OLTC tap change).
 
 ## Industrial protocols
 * [ScadaProtocols.com](https://scadaprotocols.com) a technical platform dedicated to helping engineers understand, analyze, and troubleshoot industrial communication systems with confidence and clarity.
